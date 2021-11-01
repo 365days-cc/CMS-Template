@@ -1,0 +1,11 @@
+
+{
+    "css.styleSheets": [
+        "bootstrap.css",
+        "${fileBasenameNoExtension}.css"
+    ],
+    "css.enabledLanguages": [
+        "html",
+        "ejs"
+    ]
+}
