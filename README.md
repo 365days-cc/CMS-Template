@@ -4,7 +4,7 @@
 
 ## 技术支持
 ### JavaScript
-集成了babel，支持es7的语法，并且发布后会编译成es5
+集成了babel，支持ES2015+的语法
 
 ### CSS的
 集成了Less-loader，可以使用了Less编写css
