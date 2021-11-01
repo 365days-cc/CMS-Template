@@ -56,8 +56,8 @@ let content = `
 
 如果有创建 \`index.less\` 会在header标签自动添加 \`<link href="./css/index.css" rel="stylesheet">\`
 
-### 默认支持的UI库
-| 名称 | 版本 | 引用方式 |
+### 默认支持的UI库，如果不需要，可以自行移除
+| 名称 | 版本 | 引用方式 | 
 | -- | -- | -- |
 | Jquery |  ^1.12.4 | npm |
 | bootstrap | ^3.4.1 | 源码 |
