@@ -78,7 +78,7 @@ import '{库名}'
 在 ./src/js/{name}.less 插入以下代码
 
 \`\`\`
-@import url("../lib/bootstrap-3.4.1/less/variables.less");
+@import url("{.less文件路径}");
 \`\`\`
 `;
 
